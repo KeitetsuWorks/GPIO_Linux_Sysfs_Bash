@@ -27,6 +27,14 @@ This project consists of:
         $ sudo ./SW_Read.sh
     ```
 
+## Installation
+1. Download this repository
+    ```console
+        $ git clone https://github.com/KeitetsuWorks/GPIO_Linux_Sysfs_Bash.git
+    ```
+
+After that you can find Bash script files under the `./GPIO_Linux_Sysfs_Bash/` directory.
+
 ## License
 * MIT
 
