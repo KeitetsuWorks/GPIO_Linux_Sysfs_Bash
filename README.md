@@ -17,18 +17,21 @@ This project consists of:
 ## Usage
 ### Blink Two LEDs
 * Must be root to run `LED_Blink.sh`.
+
     ```console
         $ sudo ./LED_Blink.sh
     ```
 
 ### Get Two Switches Status
 * Must be root to run `SW_Read.sh`.
+
     ```console
         $ sudo ./SW_Read.sh
     ```
 
 ## Installation
 1. Download this repository
+
     ```console
         $ git clone https://github.com/KeitetsuWorks/GPIO_Linux_Sysfs_Bash.git
     ```
