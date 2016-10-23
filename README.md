@@ -14,6 +14,19 @@ This project consists of:
 ### Software
 * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 
+## Usage
+### Blink Two LEDs
+* Must be root to run `LED_Blink.sh`.
+    ```console
+        $ sudo ./LED_Blink.sh
+    ```
+
+### Get Two Switches Status
+* Must be root to run `SW_Read.sh`.
+    ```console
+        $ sudo ./SW_Read.sh
+    ```
+
 ## License
 * MIT
 
