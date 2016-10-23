@@ -14,7 +14,14 @@ This project consists of:
 ### Software
 * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 
-## Usage
+## Circuit for Sample Bash Script
+### Blink Two LEDs
+* [Bread Board View](https://goo.gl/photos/MXi4feyE63LPpV7u6)
+
+### Get Two Switches Status
+* [Bread Board View](https://goo.gl/photos/YRdA3xzpbyTR4X8S8)
+
+## Sample Bash Script Usage
 ### Blink Two LEDs
 * Must be root to run `LED_Blink.sh`.
 
