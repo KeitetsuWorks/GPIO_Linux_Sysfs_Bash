@@ -45,6 +45,9 @@ This project consists of:
 
 After that you can find Bash script files under the `./GPIO_Linux_Sysfs_Bash/` directory.
 
+## Blog
+* [blog 渓鉄: Raspberry PiでLチカ（GPIO Sysfs Interface, Bashスクリプト）](http://keitetsu.blogspot.jp/2016/10/raspberry-pilgpio-sysfs-interface-bash.html)
+
 ## License
 * MIT
 
